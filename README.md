@@ -2,19 +2,7 @@
 ## Implementation of Recurrent Neural Networks (RNNs) using Pytorch
 ## Downstream application: Text Generation
 
-Here are three videos that explain the theory and the code:
-
-**Part 1: Theory of RNN: An Easy Tutorial**
-
-https://youtu.be/jPPWc0y-08Q
-
-**Part 2: Coding RNN**
-
-https://youtu.be/qQkpLVxRIyg
-
-**Part 3: Coding RNN and Text Generation**
-
-https://youtu.be/4WlNMCE8swE
+FILE DATA: https://drive.google.com/drive/folders/11ZksUwsU-7hZXDDQ8MscXNzGN6c7Msnz?usp=drive_link
 
 # Jupyter Notebook Files:
 ### DataFromReuters.ipynb:
